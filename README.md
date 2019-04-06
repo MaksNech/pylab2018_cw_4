@@ -1,4 +1,4 @@
-# Class work 4 (Caesar cipher and words frequency methods)
+# Caesar cipher and words frequency methods.
 
 ## 1: Initial Setup
 
